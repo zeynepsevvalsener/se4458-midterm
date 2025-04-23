@@ -14,7 +14,7 @@ The service supports user registration & login, JWT-secured endpoints for flight
 ## 🎥 Demo Video
 
 A quick walkthrough of the main flows (register → login → CRUD flights → buy ticket → check-in):  
-<https://youtu.be/XXXXXXXXXXX>
+<https://youtu.be/COzPM5P6aeM>
 
 ---
 
